@@ -1,49 +1,32 @@
 ## Hi there 👋
 
-🔭 I’m currently working on
+Software engineer interested in infrastructure, distributed systems, security and system design.
 
-- Raspberry Pi Cluster — building a small homelab to explore Linux, networking, containers, K3s/Kubernetes, monitoring and infrastructure automation
-- Trade Finance API — a Java/Spring Boot microservice using PostgreSQL, Flyway, Docker and Testcontainers
-- Village Logistics — an application exploring shared tasks, reminders and coordination
-- AI Agent Security — exploring least-privilege security and access control for tool-using autonomous AI agents
-- Portfolio Website — documenting my projects, technical decisions and what I'm learning
+🔭 Currently building: Village Logistics
 
-🌱 I’m currently learning 
+A full-stack application for coordinating shared tasks, reminders and logistics.
 
-Linux and networking - Kubernetes and distributed systems - Computer architecture - Cloud and infrastructure engineering - Cybersecurity - Algorithms and data structures
-System design
+I'm using it as an end-to-end engineering project — from application and API design through to deployment and infrastructure.
 
-🛠 Tech stack :
+The aim is to combine:
 
-Languages - Java · Python · SQL · JavaScript · HTML · CSS
+Java · Spring Boot · PostgreSQL · REST APIs · Docker · Linux · K3s/Kubernetes · GitHub Actions · Raspberry Pi
 
-Backend & Data - Spring Boot · PostgreSQL · REST APIs · Flyway · Testcontainers
+The application will ultimately run on my own Raspberry Pi cluster, giving me a practical environment for exploring deployment, networking, observability, resilience and infrastructure automation.
 
-Infrastructure - Linux · Docker · Git · GitHub Actions · Raspberry Pi · Kubernetes / K3s
+→ View Village Logistics
 
-🧠 What I'm interested in:
+Other projects
+Raspberry Pi Cluster — Linux, networking, containers, K3s and infrastructure
+Trade Finance API — Java/Spring Boot microservice architecture
+AI Agent Security — least-privilege security for tool-using AI agents
+Algorithms & Data Structures — ongoing coding and CS practice
+🛠 Tech
 
-I like understanding how systems work across layers — from hardware and operating systems through infrastructure, APIs and applications.
-I'm especially interested in:
+Java · Python · SQL · Spring Boot · PostgreSQL · Linux · Docker · Git · GitHub Actions · Kubernetes/K3s · Raspberry Pi
 
--Infrastructure and platform engineering
--Developer tooling
--Security and least privilege
--Distributed systems
--Technical product and system design
--Responsible technology
--Making complex technical systems easier for people to understand
+🌱 Currently learning
 
-💬 Ask me about
+Computer Architecture · Networking · Distributed Systems · Cloud Infrastructure · Cybersecurity · System Design
 
--Moving from teaching into software engineering
--Platform engineering
--Learning computer science as a career changer
--Building a Raspberry Pi homelab
--Java and backend development
--Women and social mobility in technology
-
-📌 Selected projects
-
-More project write-ups and source code are available in my pinned repositories below.
-
+📌 See my pinned repositories below for source code and documentation.
