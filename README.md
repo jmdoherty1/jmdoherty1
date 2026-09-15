@@ -13,9 +13,9 @@ Java · Spring Boot · PostgreSQL · REST APIs · Docker · Linux · K3s/Kuberne
 The application will ultimately run on my own Raspberry Pi cluster, giving me a practical environment for exploring deployment, networking, observability, resilience and infrastructure automation.
 
 Other projects:
-[Raspberry Pi Cluster](https://github.com/jmdoherty1/Raspberry Pi Cluster) — Linux, networking, containers, K3s and infrastructure
+[Raspberry-Pi-Cluster](https://github.com/jmdoherty1/Raspberry-Pi-Cluster) — Linux, networking, containers, K3s and infrastructure
 Trade Finance API — Java/Spring Boot microservice architecture
-AI Agent Security — least-privilege security for tool-using AI agents
+[AI-agent-security](https://github.com/jmdoherty1/AI-agent-security) — least-privilege security for tool-using AI agents
 Algorithms & Data Structures — ongoing coding and CS practice
 🛠 Tech
 
