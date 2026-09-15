@@ -12,7 +12,7 @@ Java · Spring Boot · PostgreSQL · REST APIs · Docker · Linux · K3s/Kuberne
 
 The application will ultimately run on my own Raspberry Pi cluster, giving me a practical environment for exploring deployment, networking, observability, resilience and infrastructure automation.
 
-→ View Village Logistics
+→ View [Village](https://github.com/jmdoherty1/village) 
 
 Other projects
 Raspberry Pi Cluster — Linux, networking, containers, K3s and infrastructure
