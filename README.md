@@ -4,7 +4,7 @@ Software engineer interested in infrastructure, distributed systems, security an
 
 🔭 **Currently building**:  [Village](https://github.com/jmdoherty1/village) - a full-stack application for coordinating shared care tasks, reminders and logistics across families and multi-user caregiving groups.
 
-I'm using it as an end-to-end engineering project — from application and API design through to deployment and infrastructure.
+I'm using it as an end-to-end engineering project, from application and API design through to deployment and infrastructure.
 
 The aim is to combine:
 Java · Spring Boot · PostgreSQL · REST APIs · Docker · Linux · K3s/Kubernetes · GitHub Actions · Raspberry Pi
@@ -13,7 +13,7 @@ The application will ultimately run on my own Raspberry Pi cluster, giving me a 
 
 **Other projects:**
 <br>[Raspberry-Pi-Cluster-](https://github.com/jmdoherty1/Raspberry-Pi-Cluster-) — Linux, networking, containers, K3s and infrastructure
-<br>Trade Finance API — Java/Spring Boot microservice architecture
+<br>[Trade-Finance-API](https://github.com/jmdoherty1/Trade-Finance-API) — Java/Spring Boot microservice architecture
 <br>[AI-agent-security](https://github.com/jmdoherty1/AI-agent-security) — least-privilege security for tool-using AI agents
 <br>Algorithms & Data Structures — ongoing coding and CS practice
 
