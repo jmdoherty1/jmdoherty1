@@ -2,7 +2,7 @@
 
 Software engineer interested in infrastructure, distributed systems, security and system design.
 
-🔭 Currently building: Village - a full-stack application for coordinating shared care tasks, reminders and logistics across families and multi-user caregiving groups.
+🔭 Currently building: [Village](https://github.com/jmdoherty1/village) - a full-stack application for coordinating shared care tasks, reminders and logistics across families and multi-user caregiving groups.
 
 I'm using it as an end-to-end engineering project — from application and API design through to deployment and infrastructure.
 
@@ -11,8 +11,6 @@ The aim is to combine:
 Java · Spring Boot · PostgreSQL · REST APIs · Docker · Linux · K3s/Kubernetes · GitHub Actions · Raspberry Pi
 
 The application will ultimately run on my own Raspberry Pi cluster, giving me a practical environment for exploring deployment, networking, observability, resilience and infrastructure automation.
-
-→ View [Village](https://github.com/jmdoherty1/village) 
 
 Other projects
 Raspberry Pi Cluster — Linux, networking, containers, K3s and infrastructure
