@@ -15,7 +15,7 @@ The application will ultimately run on my own Raspberry Pi cluster, giving me a 
 <br>[Raspberry-Pi-Cluster-](https://github.com/jmdoherty1/Raspberry-Pi-Cluster-) — Linux, networking, containers, K3s and infrastructure
 <br>[Trade-Finance-API](https://github.com/jmdoherty1/Trade-Finance-API) — Java/Spring Boot microservice architecture
 <br>[AI-agent-security](https://github.com/jmdoherty1/AI-agent-security) — least-privilege security for tool-using AI agents
-<br>Algorithms & Data Structures — ongoing coding and CS practice
+<br>[Algorithms-Data-Structures](https://github.com/jmdoherty1/Algorithms-Data-Structures) — ongoing coding and CS practice
 
 🛠  **Tech**<br>Java · Python · SQL · Spring Boot · PostgreSQL · Linux · Docker · Git · GitHub Actions · Kubernetes/K3s · Raspberry Pi
 
