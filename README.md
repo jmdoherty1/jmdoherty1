@@ -2,9 +2,7 @@
 
 Software engineer interested in infrastructure, distributed systems, security and system design.
 
-🔭 Currently building: Village Logistics
-
-A full-stack application for coordinating shared tasks, reminders and logistics.
+🔭 Currently building: Village - a full-stack application for coordinating shared care tasks, reminders and logistics across families and multi-user caregiving groups.
 
 I'm using it as an end-to-end engineering project — from application and API design through to deployment and infrastructure.
 
